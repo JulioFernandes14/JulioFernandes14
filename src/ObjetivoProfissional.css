@@ -1,0 +1,15 @@
+.objetivo-profissional {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.objetivo-profissional > p {
+    width: 70%;
+    font-size: 28px;
+    text-align: justify;
+}
